@@ -6,3 +6,19 @@
     background-repeat: no-repeat;
     background-position:center ;
 }
+
+.cabeçalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contanier {
+    display: flex;
+    align-items: center;
+}
+
+.contanier_imagem {
+    padding: 1em;
+}
